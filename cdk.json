@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/cdk-remix-vite.ts",
+  "app": "npx tsx infrastructure/app.ts",
   "watch": {
     "include": [
       "**"
